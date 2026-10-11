@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Nahuel Sandoval 👋
 
-<!--
-**nawi2k/nawi2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack & Back-End Developer Jr.** | 🎓 Estudiante de Programación en la **UTN**.
+Focused on building reliable software, database modeling, and scalable applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Herramientas:
+- **Lenguajes:** Python, Java, SQL, HTML5, CSS3.
+- **Bases de Datos:** Bases de Datos Relacionales (SQL), Persistencia de Datos.
+- **Herramientas:** Git, GitHub, VS Code, Bash Scripting.
+- **Conceptos:** POO, Manejo de Excepciones, Manejo de Archivos (CSV/TXT), Estructuras de Datos.
+
+---
+
+### 📌 En lo que estoy trabajando:
+- 🚀 Desarrollando proyectos integradores y prácticos en la UTN.
+- 🗄️ Diseñando modelos de bases de datos relacionales y consultas SQL.
+- 📈 Manteniendo constante aprendizaje y buenas prácticas con Git/GitHub.
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/nahuel-sandoval-developer/) | Email: nahugonza2004@gmail.com
